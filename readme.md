@@ -7,7 +7,7 @@ Organized is a virtual container, where you can add, delete, sort or print a lis
 ## Visual
 
 
-https://github.com/EpitechPromo2028/B-CPE-110-STG-1-1-organized-leo.roos/assets/114913500/b0f89ff7-d3a9-4b9e-84f8-b328ecea69f4
+https://github.com/Wealarc/Epitech-Tek1-Project-Organized/assets/114913500/dc20f1fa-0c9f-43e6-8492-e1c2dfd9b341
 
 
 ## Installation
@@ -29,4 +29,5 @@ make
 With a list of differents materials, you can do this :
 
 
-![screenshot_example](https://github.com/EpitechPromo2028/B-CPE-110-STG-1-1-organized-leo.roos/assets/114913500/37dba16a-d956-4d33-9a40-2487f67f5975)
+![example_usage](https://github.com/Wealarc/Epitech-Tek1-Project-Organized/assets/114913500/fc9adf9b-973a-42b5-aecc-9b31cbc50da0)
+
